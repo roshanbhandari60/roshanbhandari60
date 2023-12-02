@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **php,Javascript,python etc**
 
-- 📫 How to reach me **079bct071roshan@pcampus.edu.np**
+- 📫 How to reach me **079bct071.roshan@pcampus.edu.np**
 
 - ⚡ Fun fact **Your brain uses 10 watts of energy to think, but it can't feel pain. You know what they say: Mind over matter.**
 
