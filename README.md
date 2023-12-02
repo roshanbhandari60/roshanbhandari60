@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [roshanbhandari60.github.io/er-Portfolio](roshanbhandari60.github.io/er-Portfolio)
+- 👨‍💻 All of my projects are available at [roshanbhandari60.github.io/er-Portfolio](roshanbhandari60.github.io/er-Portfolio) & [https://github.com/roshanbhandari60]
 
 - 💬 Ask me about **php,Javascript,python etc**
 
