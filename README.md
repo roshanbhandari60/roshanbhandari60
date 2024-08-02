@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **079bct071.roshan@pcampus.edu.np**
 
-- ⚡ Fun fact **Your brain uses 10 watts of energy to think, but it can't feel pain. You know what they say: Mind over matter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
