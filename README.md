@@ -1,21 +1,23 @@
 
-# Hi 👋, I'm Roshan Bhandari
+<h1 align="center">Hi 👋, I'm Roshan Bhandari</h1>
 
-### Computer Engineering Student | AI & Computer Vision Enthusiast
+<h3 align="center">Computer Engineer | AI & Computer Vision Enthusiast</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=roshanbhandari60&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roshanbhandari60&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineering student at Tribhuvan University, Institute of Engineering, Pulchowk Campus, with interests in artificial intelligence, computer vision, cybersecurity, and software development.
+I'm a Computer Engineering professional with interests in artificial intelligence, computer vision, cybersecurity, and software development.
 
-I enjoy solving technical problems, analyzing information, and learning how intelligent systems work.
+I enjoy solving technical problems, analyzing information, and exploring how intelligent systems work. I'm interested in opportunities involving AI training, data evaluation, and improving the quality and reliability of AI-generated content.
 
-- 🎓 Pursuing a degree in Computer Engineering
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 👁️ Exploring Computer Vision and Image Processing
 - 🔐 Interested in Cybersecurity and Explainable AI
-- 💡 Always learning and improving my technical skills
+- 🧠 Interested in AI Evaluation and Data Quality
+- 💻 Passionate about problem-solving and continuous learning
 
 ## 🛠️ Languages and Tools
 
@@ -30,10 +32,17 @@ I enjoy solving technical problems, analyzing information, and learning how inte
 
 ## 🌐 Connect With Me
 
-- **GitHub:** https://github.com/roshanbhandari60
-- **LinkedIn:** https://www.linkedin.com/in/broshan60/
-- **Kaggle:** https://www.kaggle.com/broshan60
-- **Twitter/X:** https://twitter.com/broshannp_60
+<p align="left">
+  <a href="https://github.com/roshanbhandari60">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/broshan60/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/broshan60">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
 
 ## 📫 Contact
 
@@ -42,5 +51,5 @@ I enjoy solving technical problems, analyzing information, and learning how inte
 ---
 
 <p align="center">
-  Always learning, building, and exploring. 🚀
+  Always learning, building, and exploring new technologies. 🚀
 </p>
